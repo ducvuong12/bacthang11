@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<table border='1'  bordercolor='black' width='200' height='100' cellpadding='4'>
+<table border='1'  bordercolor='black' width='200' height='100'>
 <?php
     if(isset($_POST['ve'])){
 		
